@@ -1,0 +1,8 @@
+{
+	"name": "juho-jaakkola/elgg-personal_activity",
+	"type": "elgg-plugin",
+	"license": "GPL-2.0",
+	"extra": {
+		"installer-name": "personal_activity"
+	}
+}
